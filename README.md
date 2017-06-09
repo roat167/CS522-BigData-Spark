@@ -7,6 +7,7 @@ This application is written in scala and is used to to analyse apache access_log
 # Instruction:
 
 Assumed that you have Apache Hadoop, Spark, maven already installed on your machine:
+I developed on Cloudera. You can see the Presentation.pdf file to see how to install it.
 
 ## Step 1: building jar
 	In SparkProject directory, right click => Open in Terminal
